@@ -22,7 +22,7 @@ import 'login_screen.dart';
 // 4) Make sure there are rules and validation for email and password deatails;
 //    such as password length (firebase min 6), email format, confirm password should be same - Done
 // 5) dont allow button to work if rules are violated - Done
-// 6) Remember me funcitonality
+// 6) Remember me funcitonality - Done
 
 class SignupScreen extends StatefulWidget {
   const SignupScreen({Key? key}) : super(key: key);
